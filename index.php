@@ -1,6 +1,6 @@
 <?php
-$consumerkey='zvbFAfpdgRErjnxn0krFJ1OAnDXWr5tL';
-$consumersecret='4iPnTUaz6ZDXkEKQ';
+$consumerkey='';
+$consumersecret='';
 
 $headers = ['Content-Type:application/json; charset=utf-8'];
 
